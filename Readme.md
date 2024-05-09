@@ -22,4 +22,7 @@ Nodejs Authentication project is a authentication system which can be used as a 
    node index
    ```
 
-4. Access the application in your browser at `bash http://localhost:3100 `
+4. Access the application in your browser at `http://localhost:3100 `
+
+## Deployed Link
+Access the deployed live link: https://nodejs-authentication-ci4h.onrender.com/
